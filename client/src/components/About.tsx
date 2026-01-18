@@ -40,7 +40,7 @@ export default function About() {
           <div className="flex flex-col gap-8">
             <div className="space-y-4">
               <p className="text-primary font-accent font-semibold text-sm uppercase tracking-wide">
-                About Codexwagon
+                About Codexwagongggg
               </p>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-display font-bold text-foreground">
                 We've Been Thriving in IT Solutions
