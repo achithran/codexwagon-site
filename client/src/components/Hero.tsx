@@ -23,7 +23,7 @@ export default function Hero() {
                 IT Solutions & Services
               </p>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-foreground leading-tight">
-                Transform Your Business with Expert IT Solutions
+                Transform Your Business with Expert IT Solutionsccc
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed max-w-md">
                 Codexwagon delivers cutting-edge IT infrastructure, management, and security solutions tailored to your business needs. We've been trusted by 700+ customers for 3200+ successful projects.
